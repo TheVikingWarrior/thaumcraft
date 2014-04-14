@@ -203,15 +203,15 @@ item.WandRod.4.name=Verga di Quarzo
 item.WandRod.5.name=Verga di Canne
 item.WandRod.6.name=Verga Fiammeggiante
 item.WandRod.7.name=Verga d'Osso
-item.WandRod.50.name=Nucleo di Grandalbero per Bastone
-item.WandRod.51.name=Nucleo di Ossidiana per Bastone
-item.WandRod.52.name=Nucleo Bastone di Argentalbero per Bastone
-item.WandRod.53.name=Nucleo di Ghiaccio per Bastone
-item.WandRod.54.name=Nucleo di Quarzo per Bastone
-item.WandRod.55.name=Nucleo di Canne per Bastone
-item.WandRod.56.name=Nucleo Fiammeggiante per Bastone
-item.WandRod.57.name=Nucleo d'Osso per Bastone
-item.WandRod.100.name=Nucleo per il Bastone del Primario
+item.WandRod.50.name=Anima di Grandalbero per Bastone
+item.WandRod.51.name=Anima di Ossidiana per Bastone
+item.WandRod.52.name=Anima di Argentalbero per Bastone
+item.WandRod.53.name=Anima di Ghiaccio per Bastone
+item.WandRod.54.name=Anima di Quarzo per Bastone
+item.WandRod.55.name=Anima di Canne per Bastone
+item.WandRod.56.name=Anima Fiammeggiante per Bastone
+item.WandRod.57.name=Anima d'Osso per Bastone
+item.WandRod.100.name=Anima per il Bastone del Primario
 #
 # this is what is used to name the wand - the position of the variables can be altered so it makes more sense in other languages
 item.Wand.name=%OBJ %ROD %CAP
@@ -710,47 +710,43 @@ tc.research_name.ROD_reed=Anima per bacchette in Canna
 tc.research_text.ROD_reed=Immagazzinamento di Vis aereo
 tc.research_page.ROD_reed.1=Un'anima di bacchetta fatta di canne ha una capacità di immagazzinamento leggermente maggiore del legno di Grandalbero. Tuttavia ciò che la rende superiore alle anime di legno di Grandalbero è la sua capacità di rifornire il livello di Aer, senza l'ausilio di alcun nodo, quando scende al di sotto del 10%.
 #
-
-
 tc.research_name.ROD_greatwood_staff=Bastoni Magici
- +tc.research_text.ROD_greatwood_staff=I bastoni dei maghi hanno un nodo sulla punta
- +tc.research_page.ROD_greatwood_staff.1=Le bacchette sono gli strumenti del mestiere del taumaturgo, ma volte vorrai avere più potenza. I bastoni magici sono semplicemente bacchette più grandi. Possono tenere più vis.<BR>Essendo fisicamete più grandi e resistenti delle bacchette, possonon anche essere usati come un'arma in casi di emergenza.<BR>Purtroppo ciò li rende inadeguati per fabbricazioni intricate e controllo preciso richiesto da un banco da lavoro arcano o simili.
- +tc.research_page.ROD_greatwood_staff.2=Un bastone fatto di grandalbero ha una capacità doppia di vis rispetto ad una bacchetta di grandalbero, potendo così tenere 125 vis di ogni tipo.
- +#
- +tc.research_name.ROD_silverwood_staff=Silverwood Staff Core
- +tc.research_text.ROD_silverwood_staff=Magical to the core
- +tc.research_page.ROD_silverwood_staff.1=Staff cores crafted from silverwood can store up to 250 vis of each type.
- +#
- +tc.research_name.ROD_obsidian_staff=Obsidian Staff Core
- +tc.research_text.ROD_obsidian_staff=Earthen vis storage
- +tc.research_page.ROD_obsidian_staff.1=A staff core chiselled from obsidian can store 175 vis of each type.<BR>Like the wand core it will slowly replenish its vis stores.
- +#
- +tc.research_name.ROD_bone_staff=Bone Staff Core
- +tc.research_text.ROD_bone_staff=Entropic vis storage
- +tc.research_page.ROD_bone_staff.1=A staff core carved from bone can store 175 vis of each type.<BR>Like the wand core it will slowly replenish its vis stores.
- +#
- +tc.research_name.ROD_blaze_staff=Blaze Rod Staff Core
- +tc.research_text.ROD_blaze_staff=Fiery vis storage
- +tc.research_page.ROD_blaze_staff.1=A staff core crafted from blaze rods can store 175 vis of each type.<BR>Like the wand core it will slowly replenish its vis stores.
- +#
- +tc.research_name.ROD_ice_staff=Icy Staff Core
- +tc.research_text.ROD_ice_staff=Icy vis storage
- +tc.research_page.ROD_ice_staff.1=A staff core crafted from ice can store 175 vis of each type.<BR>Like the wand core it will slowly replenish its vis stores.
- +#
- +tc.research_name.ROD_quartz_staff=Quartz Staff Core
- +tc.research_text.ROD_quartz_staff=Ordered vis storage
- +tc.research_page.ROD_quartz_staff.1=A staff core chiseled from quartz can store 175 vis of each type.<BR>Like the wand core it will slowly replenish its vis stores.
- +#
- +tc.research_name.ROD_reed_staff=Reed Staff Core
- +tc.research_text.ROD_reed_staff=Airy vis storage
- +tc.research_page.ROD_reed_staff.1=A staff core crafted from reeds can store 175 vis of each type.<BR>Like the wand core it will slowly replenish its vis stores.
- +#
- +tc.research_name.ROD_primal_staff=Staff Core of the Primal
- +tc.research_text.ROD_primal_staff=Elemental power combined
- +tc.research_page.ROD_primal_staff.1=This core pulses with latent energy.<BR>It combines all the features off the lesser stave cores - it has the vis storage capacity of the silverwood core and is able to replenish it's vis stores like the various primal wand cores.<BR>Lastly it adds one level of potency to any foci used with it.<BR>This is truly a potent tool in any thaumaturges arsenal.
- +#
-
-
+tc.research_text.ROD_greatwood_staff=I bastoni dei maghi hanno un nodo sulla punta
+tc.research_page.ROD_greatwood_staff.1=Le bacchette sono gli strumenti del mestiere del taumaturgo, ma volte vorrai avere più potenza. I bastoni magici sono semplicemente bacchette più grandi. Possono tenere più vis.<BR>Essendo fisicamete più grandi e resistenti delle bacchette, possonon anche essere usati come un'arma in casi di emergenza.<BR>Purtroppo ciò li rende inadeguati per fabbricazioni intricate e controllo preciso richiesto da un banco da lavoro arcano o simili.
+tc.research_page.ROD_greatwood_staff.2=Un bastone fatto di grandalbero ha una capacità doppia di vis rispetto ad una bacchetta di grandalbero, potendo così tenere 125 vis di ogni tipo.
+#
+tc.research_name.ROD_silverwood_staff=Anima di Argentalbero per Bastone
+tc.research_text.ROD_silverwood_staff=Magica al nucleo
+tc.research_page.ROD_silverwood_staff.1=Anime di Bastone create con argentalbero posso tenere fino a 250 vis di ogni tipo.
+#
+tc.research_name.ROD_obsidian_staff=Anima di Ossidana per Bastone
+tc.research_text.ROD_obsidian_staff=Conservazione di vis terrena
+tc.research_page.ROD_obsidian_staff.1=Un'anima di bacchetta cesellata dall'ossidiana può tenere fino a 175 vis di ogni tipo.<BR>Come l'anima di bacchetta ricaricherà lentamente il propio vis.
+#
+tc.research_name.ROD_bone_staff=Anima d'Osso per Bastone
+tc.research_text.ROD_bone_staff=Conservazione di vis entropico
+tc.research_page.ROD_bone_staff.1=Un'anima di bacchetta ricavata da un osso può tenere fino a 175 vis di ogni tipo.<BR>Come l'anima di bacchetta ricaricherà lentamente il propio vis.
+#
+tc.research_name.ROD_blaze_staff=Anima Fiammeggiante per Bastone
+tc.research_text.ROD_blaze_staff=Conservazione di vis impetuoso
+tc.research_page.ROD_blaze_staff.1=Un'anima di bacchetta creata da una verga di blaze può tenere fino a 175 vis di ogni tipo.<BR>Come l'anima di bacchetta ricaricherà lentamente il propio vis.
+#
+tc.research_name.ROD_ice_staff=Anima di Ghiaccio per Bastone
+tc.research_text.ROD_ice_staff=Conservazione di vis ghiacciato
+tc.research_page.ROD_ice_staff.1=Un'anima di bacchetta creata dal ghiaccio può tenere fino a 175 vis di ogni tipo.<BR>Come l'anima di bacchetta ricaricherà lentamente il propio vis.
+#
+tc.research_name.ROD_quartz_staff=Anima di Quarzo per Bastone
+tc.research_text.ROD_quartz_staff=Conservazione di vis ordinato
+tc.research_page.ROD_quartz_staff.1=Un'anima di bacchetta cessellata dal quarzo può tenere fino a 175 vis di ogni tipo.<BR>Come l'anima di bacchetta ricaricherà lentamente il propio vis.
+#
+tc.research_name.ROD_reed_staff=Anima di Canna per Bastone
+tc.research_text.ROD_reed_staff=Conservazione di vis ventoso
+tc.research_page.ROD_reed_staff.1=Un'anima di bacchetta creata con canne da zucchero può tenere fino a 175 vis di ogni tipo.<BR>Come l'anima di bacchetta ricaricherà lentamente il propio vis.
+#
+tc.research_name.ROD_primal_staff=Anima per il Bastone del Primario
+tc.research_text.ROD_primal_staff=Potere elementare combinato
+tc.research_page.ROD_primal_staff.1=Questa anima pulsa di un'energia latente<BR>Combina tutte le capacità dell altre anime - può contenere la stessa quantità di vis di un'anima di argentalbero e può ricaricare il propio vis di tutti gli aspetti primari.<BR>Infine aggiunge un livello di potenza ad ogni foci utilizzato con esso.<BR>Questo è un attrezzo veramente potente nell'arsenale di un taumaturgo.
+#
 tc.research_name.FOCUSFIRE=Foci per Bacchette
 tc.research_text.FOCUSFIRE=Il Corpo incontra la Funzione
 tc.research_page.FOCUSFIRE.1=Una sperimentazione attenta ti ha mostrato un modo per espandere le abilità delle bacchette, perfino la più semplice.<BR>Combinando frammenti di Vis cristallizzato con cristalli di quarzo, ed infondendoli di magia, sei in grado di allineare la struttura cristallina in una matrice mistica.<BR>Se attraverso questa matrice viene concentrato il vis in precise quantità e qualità, essa rimodellerà le energie magiche grezze in qualcosa di utile, controllato e collegato ad un compito specifico. 
@@ -779,6 +775,14 @@ tc.research_page.FOCUSHELLBAT.1=I tuoi viaggi nel nether ti hanno insegnato a te
 tc.research_name.FOCUSPORTABLEHOLE=Focus per Bacchette: Buco Portatile
 tc.research_text.FOCUSPORTABLEHOLE=Non restare mai più senza un'uscita
 tc.research_page.FOCUSPORTABLEHOLE.1=Sei finalmente riuscito ad usare il vis per creare spazi extradimensionali. Usando questo focus su di un muro o qualunque altra superfice creerà un passaggio extradimensionale che conduce dall'altro lato.<BR>Questo 'buco' resterà aperto solo per un paio di secondi, e prosciugherà il vis della bacchetta a seconda della sua profondità.<BR>I buchi extradimensionali non possono essere creati attraverso determinati tipi di materia, o oggetti particolarmente complessi.
+#
+tc.research_name.FOCUSWARDING=Focus per Bacchetta: Protezione
+tc.research_text.FOCUSWARDING=Proteggendo ciò che è tuo
+tc.research_page.FOCUSWARDING.1=Questo potente focus ha un'abilità molto interssante. Quando usato su un blocco creerà un'invisibile barriera protettiva intorno al blocco. Da quel momento in poi il blocco non potrà essere rimosso o distrutto finchè non finchè non userai di nuovo la bacchetta su esso.<BR>Il focus può essere usato sui blocchi più semplici che terranno la maggior perte delle loro normali caratteristiche, anche se quando protetti i blocchi rimarranno congelati sul posto.<BR>Quando tieni una bacchetta con questo focus potrai vedere tutti i blocchi che tu (e solo tu) hai protetto.
+#
+tc.research_name.FOCUSPRIMAL=Focus per Bacchetta: Primario
+tc.research_text.FOCUSPRIMAL=Magia allo stato puro
+tc.research_page.FOCUSPRIMAL.1=Che pazzia ti ha preso quando hai creato questo coso? Questo focus sembra selvaggiamente pericoloso e solo un lunatico proverebbe a usarlo dappertutto tranne che nei posti più sicuri.<BR>certamente, la spera di energia primordiale grezza è alquanto devastante, ma la sua traiettoria è leggermente deviato nel bene e molto deviato nel peggio.<BR>Richiede però altri studi: La sfera dimostra delle interessanti proprietà interdimensionali e mostra frequenze di energia che hai solo notato nei fuochi fauti e nodi di energia.
 #
 tc.research_name.FOCUSPOUCH=Borsa per Foci
 tc.research_text.FOCUSPOUCH=Un comodo contenitore per trasportare i tuoi Foci.
@@ -851,7 +855,7 @@ tc.research_name.GUNPOWDER=Polvere da sparo
 tc.research_text.GUNPOWDER=Chi ha bisogno dei creeper?
 tc.research_page.GUNPOWDER.1=Hai scoperto una fonte alternativa di polvere da sparo! Niente più caccia ai creeper per questa sostanza esplosiva.
 #
-tc.research_name.TRANSIRON=Trasmutazione del ferro
+tc.research_name.TRANSIRON=Trasmutazione dei metalli
 tc.research_text.TRANSIRON=Trasformazione dei metalli in ferro
 tc.research_page.TRANSIRON.1=Hai scoperto un modo per moltiplicare il ferro, immergendone le pepite in Essentia di §5metallum§0 ottenuta da altri metalli.
 #

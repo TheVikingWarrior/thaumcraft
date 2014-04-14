@@ -11,37 +11,37 @@ potion.fluxtaint=Corruzione da Flusso
 potion.soulshatter=Distruzione dell'Anima
 #
 # Entities
-entity.ThaumSlime.name=Slime Taumico
-entity.Dart.name=Dardo di Golem
-entity.FrostShard.name=Cristallo di Ghiaccio
-entity.Firebat.name=Pirostrello
-entity.Wisp.name=Fuoco Fatuo
-entity.Alumentum.name=Alumentum
-entity.GiantBrainyZombie.name=Zombie Furioso
-entity.BrainyZombie.name=Zombie Arrabbiato
-entity.FollowItem.name=Oggetto Segugio
-entity.SpecialItem.name=Oggetto Magico
-entity.FallingTaint.name=Incrostazione Corrotta
+entity.Thaumcraft.ThaumSlime.name=Slime Taumico
+entity.Thaumcraft.Dart.name=Dardo di Golem
+entity.Thaumcraft.FrostShard.name=Cristallo di Ghiaccio
+entity.Thaumcraft.Firebat.name=Pirostrello
+entity.Thaumcraft.Wisp.name=Fuoco Fatuo
+entity.Thaumcraft.Alumentum.name=Alumentum
+entity.Thaumcraft.GiantBrainyZombie.name=Zombie Furioso
+entity.Thaumcraft.BrainyZombie.name=Zombie Arrabbiato
+entity.Thaumcraft.FollowItem.name=Oggetto Segugio
+entity.Thaumcraft.SpecialItem.name=Oggetto Magico
+entity.Thaumcraft.FallingTaint.name=Incrostazione Corrotta
 entity.Thaumcraft.AspectOrb.name=Globo di Aspetto
-entity.TaintSpider.name=Ragno Corrotto
-entity.Taintacle.name=Tentacolo Corrotto
-entity.TaintacleTiny.name=Viticcio Corrotto
-entity.TaintSpore.name=Spora di Corruzione
-entity.TaintSwarmer.name=Nido di Sciame Corrotto
-entity.TaintSwarm.name=Sciame Corrotto
-entity.TaintedVillager.name=Villico Corrotto
-entity.TaintedChicken.name=Pollo Corrotto
-entity.TaintedPig.name=Maiale Corrotto
-entity.TaintedSheep.name=Pecora Corrotta
-entity.TaintedCow.name=Mucca Corrotta
-entity.TaintedCreeper.name=Creeper Corrotto
-entity.Pech.name=Nano Raccoglitore
-entity.Pech.1.name=Nano Mago
-entity.Pech.2.name=Nano Segugio
-entity.TravelingTrunk.name=Tronco Semovente
-entity.trunk.guiname= possiede questa cassa
-entity.trunk.move=Ora la cassa ti seguirà
-entity.trunk.stay=Ora la cassa rimarrà al suo posto
+entity.Thaumcraft.TaintSpider.name=Ragno Corrotto
+entity.Thaumcraft.Taintacle.name=Tentacolo Corrotto
+entity.Thaumcraft.TaintacleTiny.name=Viticcio Corrotto
+entity.Thaumcraft.TaintSpore.name=Spora di Corruzione
+entity.Thaumcraft.TaintSwarmer.name=Nido di Sciame Corrotto
+entity.Thaumcraft.TaintSwarm.name=Sciame Corrotto
+entity.Thaumcraft.TaintedVillager.name=Villico Corrotto
+entity.Thaumcraft.TaintedChicken.name=Pollo Corrotto
+entity.Thaumcraft.TaintedPig.name=Maiale Corrotto
+entity.Thaumcraft.TaintedSheep.name=Pecora Corrotta
+entity.Thaumcraft.TaintedCow.name=Mucca Corrotta
+entity.Thaumcraft.TaintedCreeper.name=Creeper Corrotto
+entity.Thaumcraft.Pech.name=Nano Raccoglitore
+entity.Thaumcraft.Pech.1.name=Nano Mago
+entity.Thaumcraft.Pech.2.name=Nano Segugio
+entity.Thaumcraft.TravelingTrunk.name=Tronco Semovente
+entity.Thaumcraft.trunk.guiname= possiede questa cassa
+entity.Thaumcraft.trunk.move=Ora la cassa ti seguirà
+entity.Thaumcraft.trunk.stay=Ora la cassa rimarrà al suo posto
 
 # Blocks
 tile.blockAiry.0.name=Nodo di Aura
@@ -88,6 +88,12 @@ tile.blockMetalDevice.6.name=Grata per gli Oggetti (Chiusa)
 tile.blockMetalDevice.7.name=Lampada Arcana
 tile.blockMetalDevice.8.name=Lampada della Crescita 
 tile.blockMagicalLog.greatwood.name=Legno di Grandalbero
+tile.blockMetalDevice.9.name=Costrutto Alchemico
+tile.blockMetalDevice.10.name=Taumatorium
+tile.blockMetalDevice.11.name=Taumatorium
+tile.blockMetalDevice.12.name=Matrice Mnemonica
+tile.blockMetalDevice.13.name=Lampada della Fertilità
+tile.blockMagicalLog.greatwood.name=Legno di Grandalbero
 tile.blockMagicalLog.silverwood.name=Legno di Argentalbero
 tile.blockMagicalLeaves.greatwood.name=Foglie di Grandalbero
 tile.blockMagicalLeaves.silverwood.name=Foglie di Argentalbero 
@@ -113,8 +119,8 @@ tile.blockWoodenDevice.1.name=Orecchio Arcano
 tile.blockWoodenDevice.2.name=Pedana a Pressione Arcana
 tile.blockWoodenDevice.4.name=Base della Trivella Arcana
 tile.blockWoodenDevice.5.name=Trivella Arcana
-tile.blockWoodenDevice.6.name=Assi di Grandalbero
-tile.blockWoodenDevice.7.name=Assi di Argentalbero
+tile.blockWoodenDevice.6.name=Assi in Legno di Grandalbero
+tile.blockWoodenDevice.7.name=Assi in Legno di Argentalbero
 tile.blockJar.0.name=Barattolo Rinforzato
 tile.blockJar.1.name=Cervello in un Barattolo
 tile.blockJar.2.name=Nodo in un Barattolo
@@ -137,6 +143,8 @@ tile.blockCrystal.4.name=Agglomerato di Cristalli d'Ordine
 tile.blockCrystal.5.name=Agglomerato di Cristalli di Entropia
 tile.blockCrystal.6.name=Agglomerato di Cristalli Misti
 tile.blockMirror.name=Specchio Magico
+tile.blockMirror.0.name=Specchio Magico
+tile.blockMirror.6.name=Specchio per Essenzia
 tile.blockTaint.0.name=Corruzione Incrostata
 tile.blockTaint.1.name=Terra Corrotta
 tile.blockTaint.2.name=Bloccho di Carne
@@ -160,6 +168,7 @@ tile.blockTube.0.name=Tubo per Essentia
 tile.blockTube.1.name=Valvola per Essentia
 tile.blockTube.2.name=Centrifuga Alchemica
 tile.blockTube.3.name=Tubo per Essentia Filtrato
+tile.blockTube.4.name=Buffer per Essentia
 container.alchemyfurnace=Fornace Alchemica
 tile.blockArcaneFurnace.name=Fornace Infernale
 #
@@ -177,6 +186,8 @@ item.FocusFrost.name=Focus per Bacchetta: Gelo
 item.FocusExcavation.name=Focus per Bacchetta: Scavo
 item.FocusPortableHole.name=Focus per Bacchetta: Varco Portatile
 item.FocusPech.name=Focus per Bacchetta: Maledizione del Nano
+item.FocusWarding.name=Focus per Bacchetta: Protezione
+item.FocusPrimal.name=Focus per Bacchetta: Primario
 item.WandCap.0.name=Cappuccio di Ferro
 item.WandCap.1.name=Cappuccio d'Oro
 item.WandCap.2.name=Cappuccio di Taumium Carico
@@ -192,7 +203,21 @@ item.WandRod.4.name=Verga di Quarzo
 item.WandRod.5.name=Verga di Canne
 item.WandRod.6.name=Verga Fiammeggiante
 item.WandRod.7.name=Verga d'Osso
-item.Wand.name=Bacchetta
+item.WandRod.50.name=Nucleo di Grandalbero per Bastone
+item.WandRod.51.name=Nucleo di Ossidiana per Bastone
+item.WandRod.52.name=Nucleo Bastone di Argentalbero per Bastone
+item.WandRod.53.name=Nucleo di Ghiaccio per Bastone
+item.WandRod.54.name=Nucleo di Quarzo per Bastone
+item.WandRod.55.name=Nucleo di Canne per Bastone
+item.WandRod.56.name=Nucleo Fiammeggiante per Bastone
+item.WandRod.57.name=Nucleo d'Osso per Bastone
+item.WandRod.100.name=Nucleo per il Bastone del Primario
+#
+# this is what is used to name the wand - the position of the variables can be altered so it makes more sense in other languages
+item.Wand.name=%OBJ %ROD %CAP
+#
+item.Wand.wand.obj=Bacchetta
+item.Wand.staff.obj=Bastone
 item.Wand.wood.rod=di Legno
 item.Wand.greatwood.rod=di Grandalbero
 item.Wand.silverwood.rod=di Argentalbero
@@ -202,11 +227,13 @@ item.Wand.ice.rod=di Ghiaccio
 item.Wand.bone.rod=d'Osso
 item.Wand.reed.rod=di Canne
 item.Wand.quartz.rod=di Quarzo
+item.Wand.primal.rod=Primario
 item.Wand.iron.cap=coronata in Ferro
 item.Wand.gold.cap=fasciata in Oro
 item.Wand.copper.cap=coronata in Rame
 item.Wand.silver.cap=borchiata in Argento
 item.Wand.thaumium.cap=borchiata in Taumio
+#
 item.ItemResource.0.name=Alumentum
 item.ItemResource.1.name=Nitor
 item.ItemResource.2.name=Lingotto di Taumio
@@ -222,6 +249,7 @@ item.ItemResource.11.name=Melma Corrotta
 item.ItemResource.12.name=Viticcio Corrotto
 item.ItemResource.13.name=Etichetta per Barattoli
 item.ItemResource.14.name=Salis Mundus
+item.ItemResource.15.name=Amuleto Primario
 item.ItemShard.0.name=Frammento d'Aria
 item.ItemShard.1.name=Frammento di Fuoco
 item.ItemShard.2.name=Frammento d'Acqua
@@ -277,6 +305,9 @@ item.ItemSwordThaumium.name=Spada di Taumio
 item.ItemPickThaumium.name=Piccone di Taumio
 item.ItemHoeThaumium.name=Zappa di Taumio
 item.researchnotes.name=Note di Ricerca
+item.researchnotes.unknown=Conoscenza Sconosciuta
+item.researchnotes.failed.1=Fallito, piazza in un banco da lavoro
+item.researchnotes.failed.2=per riottenere frammenti di sapienza
 item.discovery.name=Scoperta
 item.ItemWispEssence.name=Essentia Eterea
 item.ItemEssence.0.name=Fiale di Vetro
@@ -291,6 +322,7 @@ item.ItemGolemCore.5.name=Travasamento
 item.ItemGolemCore.6.name=Alchimia
 item.ItemGolemCore.7.name=Disboscamento
 item.ItemGolemCore.8.name=Utilizzo
+item.ItemGolemCore.9.name=Macellaio
 item.ItemGolemCore.100.name=Vuoto
 item.ItemGolemPlacer.0.name=Golem di Paglia
 item.ItemGolemPlacer.1.name=Golem di Legno
@@ -321,11 +353,23 @@ item.ItemGolemUpgrade.2.desc=Migliora il Danno, la Capacità
 item.ItemGolemUpgrade.3.desc=Migliora i Sensi, il Raggio d'Azione
 item.ItemGolemUpgrade.4.desc=Migliora l'Organizazione, l'Intelletto
 item.ItemGolemUpgrade.5.desc=Migliora la Difesa, il Ragionamento
+item.ItemBowBone.name=Arco dell'Osso
 item.ItemManaBean.name=Fagiolo Magico
 item.TrunkSpawner.name=Baule da Viaggio
 item.TrunkSpawner.text.1=Questo baule contiene oggetti
-
-
+item.ItemResonator.name=Risonatore per Essentia
+item.ItemHelmetRunic.name=Protezione Runica per Testa
+item.ItemChestplateRunic.name=Protezione Runica per Petto
+item.ItemLeggingsRunic.name=Protezione Runica per Gambe
+item.ItemBootsRunic.name=Protezione Runica per Piedi
+item.ItemGogglesRunic.name=Occhiali della Rivelazione Runici
+item.runic.charge=Carica
+item.runic.upgrade.1=Energizato
+item.runic.upgrade.2=Incrementato
+item.runic.upgrade.3=Aiuto Cinetico
+item.runic.upgrade.4=Aiuto Rivitalizzante
+item.runic.upgrade.5=Rinforzato
+item.runic.upgrade.6=Scudi d'Emergenza
 #
 # Fluids
 fluid.fluxGoo=Flusso Melmoso
@@ -415,6 +459,22 @@ tc.inst.3=§eAlta§0
 tc.inst.4=§6Molto alta§0
 tc.inst.5=§4Pericolosa§0
 tc.adv=Avanzate
+tc.resonator1=§9Contiene %1$s essentia di %2$s §0
+tc.resonator2=§5Risucchio di %1$s %2$s §0 
+tc.resonator3=Senza Tipo
+tc.research.purchase=Clicca per comprare questa ricerca
+tc.research.short=Non hai gli aspetti richiesti per comprare queato
+tc.research.getprim=Clicca per ottenere una nota di ricerca per questa ricerca
+tc.research.shortprim=Hai bisogno di strumenti per scrivere e carta per ottenere questa nota
+tc.research.hasnote=Hai già questa nota di ricerca nel tuo inventario
+tc.research.popup=Nota di ricerca aggiunta nel tuo inventario per %1$s
+tc.research.copy=Costo per copiare questa ricerca:
+tc.primalcharm.0=Sembra che ci sia una perdita
+tc.primalcharm.1=Pensi di sentire sussurri
+tc.primalcharm.2=Sembra che vibra fortemente
+tc.primalcharm.3=La sua melodia è abbastanza calmante
+tc.primalcharm.4=Aspetta, ha appena lampeggiato un settimo colore?
+tc.primalcharm.trigger=Per uno strano momento energie circondano l'amuleto primario. Sono scomparsi velocemente, ma ti senti stranamente ispirato...
 #
 # Aspects
 tc.aspect.primal=Aspetto Primitivo
@@ -497,18 +557,16 @@ tc.research_name.RESEARCH=Ricerca
 tc.research_text.RESEARCH=Come scoprire le cose
 tc.research_page.RESEARCH.1=Prima che tu possa costruire la maggior parte degli oggetti e strumenti taumaturgici, dovrai prima scoprire come farlo. Ci sono diverse fasi sa seguire:<BR>(1) Esplorare il mondo ed esaminare i blocchi, gli oggetti e le creature usando un §5Taumometro§0<BR><BR>(2) Prendere i punti ricerca raccolti nella prima fase ed espandere la tua conoscenza degli Aspetti con un §5Tavolo delle ricerche§0<BR><BR>(3) Usare gli aspetti che conosci per rivelare informazioni e ricette con il §5Tavolo delle Ricerche§0.<LINE>
 tc.research_page.RESEARCH.2=§l      §n(1) Esplorazione§r<BR><BR>Non puoi fare ricerca senza Punti Ricerca, ed il modo migliore per guadagnarli è esplorando ed esaminando gli oggetti nel mondo.<BR>La prima cosa che dovrai fare è costruire un §5Taumometro§0 (guarda la pagina successiva). Puntando il §5Taumometro§0 sugli oggetti o sulle creature e tenendo premuto il pulsante destro del mouse, inizierai ad esaminarli. Il processo non richiede molto tempo, ma la tua velocità di spostamento è ridotta mentre lo fai.<BR>Quando ha finito, il §5Taumometro§0 mostrerà quali Aspetti l'oggetto contiene. In basso a destra sullo schermo vedrai anche un resoconto degli aspetti e punti ricerca
-tc.research_page.RESEARCH.7=il taumometro in precedenza, potresti disporre di un buon numero di aspetti Primitivi e Compositi nell'elenco.<LINE>Ora puoi iniziare a combinare gli aspetti in aspetti compositi ancora più complessi, semplicemente cliccando sui due che vuoi combinare. Quelli selezionati appariranno nella posizione §l4§r e quando ne hai selezionati due, premendo il pulsante viola §l(5)§r tenterai di combinarli. Se avrai successo, in basso a destra potrai vedere il risultato §l(3)§r.<BR>Gli aspetti che avevi selezionato per la combinazione vengono consumati anche se non succede niente.
-tc.research_page.RESEARCH.8=§l  §n(3) Ricercare gli Aspetti§r<IMG>thaumcraft:textures/misc/research2.png:0:88:255:158:.5</IMG>Se hai messo la carta nella posizione §l2§r, noterai che quando è selezionato un solo aspetto, il bottone verde contrassegnato con il numro §l6§r si attiva.<BR>Se lo premi, tenterai di ricercare l'aspetto selezionato, e se avrai successo scoprirai qualcosa di interessante su quell'aspetto e delle Note di Ricerca appariranno
-tc.research_page.RESEARCH.9=nella posizione §l7§r. La sezione §l8§r mostrerà il foglio di ricerca coperto da una sconcertante matrice di rune e simboli somiglianti all'immagine in cima alla pagina precedente.<BR>Non ti preoccupare, non è tanto difficile quanto sembra.<LINE>Per completare la tua ricerca, devi semplicemente connettere ed attivare tutti i §5Nodi di Conoscenza§0 (mostrati sotto).<IMG>thaumcraft:textures/gui/guiresearchtable.png:184:224:16:8:1.5</IMG>Il nodo sulla sinistra è un nodo disattivato, mentre quello sulla destra è stato attivato. Dopo che tutti
-tc.research_page.RESEARCH.6=non sarà necessaria in questa fase della ricerca.<IMG>thaumcraft:textures/misc/research2.png:0:0:128:83:1</IMG>Dovresti vedere tutti gli Aspetti Primitivi (e probabilmente qualche Aspetto Composito) elencati nell'area §l(3)§r con diverse quantità per ciascuno di essi. All'inizio ad ogni giocatore è assegnata una piccola riserva di aspetti primitivi, per permettergli di iniziare con le ricerche.<BR>Se hai fatto qualche esplorazione con
-tc.research_page.RESEARCH.7=il taumometro in precedenza, potresti disporre di un buon numero di aspetti Primitivi e Compositi nell'elenco.<LINE>Ora puoi iniziare a combinare gli aspetti in aspetti compositi ancora più complessi, semplicemente cliccando sui due che vuoi combinare. Quelli selezionati appariranno nella posizione §l4§r e quando ne hai selezionati due, premendo il pulsante viola §l(5)§r tenterai di combinarli. Se avrai successo, in basso a destra potrai vedere il risultato §l(3)§r.<BR>Gli aspetti che avevi selezionato per la combinazione vengono consumati anche se non c'è stato alcun risultato.
-tc.research_page.RESEARCH.8=§l  §n(3) Ricercare gli Aspetti§r<IMG>thaumcraft:textures/misc/research2.png:0:88:255:158:.5</IMG>Se hai messo la carta nella posizione §l2§r, noterai che quando è selezionato un solo aspetto, il bottone verde contrassegnato con il numro §l6§r si attiva.<BR>Se lo premi, tenterai di ricercare l'aspetto selezionato, e se avrai successo scoprirai qualcosa di interessante su quell'aspetto e delle Note di Ricerca appariranno nella
-tc.research_page.RESEARCH.9=posizione §l7§r. La sezione §l8§r mostrerà il foglio di ricerca coperto da una sconcertante matrice di rune e simboli somiglianti all'immagine in cima alla pagina precedente.<BR>Non ti preoccupare, non è tanto difficile quanto sembra.<LINE>Per completare la tua ricerca, devi semplicemente connettere ed attivare tutti i §5Nodi di Conoscenza§0 (mostrati sotto).<IMG>thaumcraft:textures/gui/guiresearchtable.png:184:224:16:8:1.5</IMG>Il nodo sulla sinistra è un nodo disattivato, mentre quello sulla destra è stato attivato. Dopo che tutti
-tc.research_page.RESEARCH.10=i nodi inattivi sono stati attivati, la ricerca sarà completata e le Note di Ricerca si trasformeranno in una scoperta che potrai usare per ottenere la ricerca completa (ti basterà cliccare con il destro mentre le tieni in mano).<LINE>Per connettere i Nodi di Conoscenza dovrai attivare le rune.<IMG>thaumcraft:textures/gui/guiresearchtable.png:184:240:64:16:.75</IMG>Ogni runa è collegata ad un aspetto, ma all'inizio non si sa quale runa rappresenta quale aspetto. Il collegamento runa/aspetto è unico per ogni ricerca, quindi una runa che rappresenta Aer in una ricerca, potrebbe rappresentare Terra in un'altra.
-tc.research_page.RESEARCH.11=Non tutte le rune sono adatte per il soggetto che stai ricercando. Per esempio, potrebbero esserci rune per Aer, Terra, Ignes ed Aqua su di un foglio di ricerca, ma solo Ignes e Terra potrebbero essere valide. Le rune non valide sono chiamate 'rune delle arighe rosse'.<BR> Scoprirai quali rune sono valide selezionando un aspetto sulla sinistra, e premendo il pulsante 'Ricerca'(§l6§r). Se l'aspetto che hai selezionato è valido, allora tutte le rune collegate a quell'aspetto divenderanno attive.<BR>Se l'aspetto che hai selezionato è una 'aringa rossa', allora le sue rune non si attiveranno, ma alcune di esse saranno rimosse dal foglio completamente.
-tc.research_page.RESEARCH.12=Se l'aspetto selezionato non è proprio presente nella ricerca, allora non succederà nulla.<LINE>Le rune attive fungono da ponti per connettere i Nodi di Conoscenza. Una linea di energia scorrerà da un nodo attivo verso una runa attiva nei dintorni. Hai quindi bisogno di una catena di rune attive e nodi per completare la ricerca.<IMG>thaumcraft:textures/misc/research3.png:0:0:120:95:.75</IMG>
-tc.research_page.RESEARCH.13=Una catena non si puo formare se c'è pià di uno spazio vuoto fra rune attive e nodi.<BR>Per formare una catena devi muovere le rune sul foglio, cliccandole e selezionando una destinazione valida.<IMG>thaumcraft:textures/misc/research2.png:136:0:102:74:1</IMG>Ogni runa puo essere mossa fino a 2 posizioni in linea retta, ma solo le rune non attive possono essere mosse -  questo significa che dovrai attivare e disattivare le tue rune
-tc.research_page.RESEARCH.14=diverse volte per portarle nella posizione corretta.<BR>Le rune inattive impediscono la connessione se giacciono sul suo percorso, quindi dovrai spostarle via.<IMG>thaumcraft:textures/misc/research3.png:128:0:105:111:.75</IMG>Ogni volta che sposti le rune, si consumerà un po' di inchiostro.<LINE>
+tc.research_page.RESEARCH.3=ottenuti.<IMG>thaumcraft:textures/misc/research1.png:0:0:255:208:.5</IMG>All'inizio non sarai in grado di esaminare tutti gli oggetti, poichè non conosci gli aspetti che li compongono. Per esempio, un oggetto contenente l'aspetto Lux puo essere esaminato solo se hai gia scoperto Lux, oppure
+tc.research_page.RESEARCH.4=se conosci i due aspetti che vanno combinati per ottenerlo.<BR>La prima volta che scopri un aspetto esaminando qualcosa, ottieni 2 punti ricerca in più rispetto alla norma.<BR>A volte esaminare qualcosa rivelerà altri indizi per ricerche taumaturgiche, sbloccando argomenti che puoi continuare a ricercare.
+tc.research_page.RESEARCH.5=§l   §n(2) Combinare gli Aspetti§r<BR><BR>Dopo aver raccolto qualche punto ricerca, puoi provare a combinarli fra loro in Aspetti Compositi con un tavolo delle ricerche.Per costruire un tavolo delle ricerche, semplicemente piazza due tavoli l'uno accanto all'altro e cliccaci con degli Strumenti per Scrivere. Puoi trovare la ricetta per i tavoli nella categoria §5Artificio§0 del Taumonomicon.Aprendo la schermata del tavolo delle ricerche, vedrai un'interfaccia come quella nell'immagine a destra.<BR>Gli strumenti per la scrittura che hai usato per creare il tavolo, saranno posizionati al suo interno §l(1)§r.
+tc.research_page.RESEARCH.6=<IMG>thaumcraft:textures/misc/research2.png:0:0:128:83:1</IMG>Dovresti vedere tutti gli Aspetti Primitivi (e probabilmente qualche Aspetto Composito) elencati nell'area §l(3)§r con diverse quantità per ciascuno di essi. All'inizio ad ogni giocatore è assegnata una piccola riserva di aspetti primitivi, per permettergli di iniziare con le ricerche.<BR>Se hai fatto qualche esplorazione con
+tc.research_page.RESEARCH.7=il taumometro in precedenza, potresti disporre di un buon numero di aspetti Primitivi e Compositi nell'elenco.<BR>Ora puoi iniziare a combinare gli aspetti in aspetti compositi ancora più complessi, semplicemente cliccando sui due che vuoi combinare o trascinandoli nei cerchi runici nell'area §l4§r. Quelli selezionati appariranno nell'area §l4§r e quando ne hai selezionati due, premendo il pulsante viola tenterai di combinarli. Se avrai successo, in basso a destra potrai vedere il risultato §l(3)§r.<BR>Gli aspetti che avevi selezionato per la combinazione vengono consumati anche se non c'è stato alcun risultato.
+tc.research_page.RESEARCH.8=§l   §n(3) Ricerca Primaria§r<IMG>thaumcraft:textures/misc/research2.png:0:88:255:158:.5</IMG>Per questo primo passaggio hai bisogno di avere un set di strumenti per scrivere e carta.<BR>Se apri il tuo Taumonomicon vedrai tutte le conoscenza che conosci e che non conosci.<BR>Icone lampeggianti quadrate o circolari rappresentano le ricerche primarie.
+tc.research_page.RESEARCH.9=Se riesci a leggere il loro titolo (invece di vedere strane rune) puoi semplicemente cliccarli. Carta e inchiostro vengono consumati nel tuo inventario e otterrai una nota di ricerca. Adesso puoi portare questa nota al tavolo per iniziare a ricercarlo mettendolo nello slot §l2§r.<BR>La sezione §l5§r mostrerà ora un foglio di carta coperto da tessere esagoni con icone degli aspetti ai bordi. Se vedi un punto di domanda vuol dire che non conosci quel aspetto e dovrai impararlo prima.<LINE>
+tc.research_page.RESEARCH.10=Per completare la tua ricerca devi connettere ed attivare tutti gli aspetti. Lo fai trascinando un aspetto in una tessera adiacente che è o composta dall'aspetto nella tessera, oppure che può essere combinata con un altro aspetto per formare l'aspetto.<IMG>thaumcraft:textures/misc/research3.png:0:0:150:95:.75</IMG>Posizionando un aspetto consuma un punto di ricerca. Se fai uno sbaglio puoi cliccare l'aspetto per rimuoverlo, ma non riotterrai il punto di ricerca.
+tc.research_page.RESEARCH.11=Continua a farlo formando un percorso che connette tutti gli aspetti di partenza. Gli aspetti non devono essere direttamente connessi a tutti gli altri, basta che siano connessi insieme.<BR>Quando hai fatto ciò la ricerca è competata e la nota si trasformerà in una scoperta.<LINE>NOTA:Piazzando e rimuovendo aspetti dal foglio consuma l'inchiostro del tuo strumento per scrivere. Se si scarica di inchiostro non potrai continuare finchè lo riempi.
+tc.research_page.RESEARCH.12=§l    §nRicerche Secondarie§r<BR>Icone esagonali indicano le Ricerche Secondarie. Come le ricerche primarie devi semplicemente cliccarle. Però, invece di ottenere una nota di ricerca, imparerai direttamente la ricerca. Le ricerche secondarie hanno però un costo di aspetti che devi pagare, ma non richiederanno attrezzi per scrivere o carta.
 #
 tc.research_name.KNOWFRAG=Frammenti di conoscenza
 tc.research_text.KNOWFRAG=Frammenti di tradizioni perdute
@@ -544,11 +602,15 @@ tc.research_page.PLANTS.6=Queste fave, conosciute come Fagioli Magici, contengon
 #
 tc.research_name.RESEARCHER1=Esperienza nella Ricerca
 tc.research_text.RESEARCHER1=La conoscenza è Potere
-tc.research_page.RESEARCHER1.1=Sei diventato più efficiente nella ricerca.<BR>Quando provi a ricercare un aspetto 'aringa rossa', fino a tre delle sue rune saranno rimosse, anzichè due.<BR>Sei inoltre in grado di spostare le rune di 3 posizioni alla volta, anzichè di due.
+tc.research_page.RESEARCHER1.1=Sei diventato più efficiente nella ricerca.<BR>Quando provi a rimuovere un aspetto dalla griglia, c'è una possiblità del 25% che riotterrai il tuo punto di ricerca.<BR>Inoltre puoi vedere quali aspetti ti servono combinare per creare l'aspetto posizionando il cursore sopra.
 #
 tc.research_name.RESEARCHER2=Maestria nella Ricerca
 tc.research_text.RESEARCHER2=Il potere è la conoscenza
-tc.research_page.RESEARCHER2.1=Se diventato ancora più efficiente nella ricerca.<BR>Quando provi a ricercare un aspetot 'aringa rossa', fino a 4 delle sue rune saranno rimosse anzichè tre.<BR>Sei inoltre in grado di muovere le rune di quattro posizioni alla volta, anzichè tre.<BR>Infine, sei in grado di muovere le rune attive, sebbene di una sola posizione. Stai attento però: farlo potrebbe disattivare tutte le rune collegate a quell'aspetto.
+tc.research_page.RESEARCHER2.1=Se diventato ancora più efficiente nella ricerca.<BR>Quando provi a rimuovere un aspetto dalla griglia, c'è una possiblità del 50% che riotterrai il tuo punto di ricerca.<BR>Inoltre c'è una possibilità del 105 che quando posizioni un aspetto, il punto di ricerca non verrà consumato.
+#
+tc.research_name.RESEARCHDUPE=Dupplicazione di Ricerche
+tc.research_text.RESEARCHDUPE=Condividere è prendersi cura
+tc.research_page.RESEARCHDUPE.1=Hai scoperto un modo per copiare le tue note di ricerca.<BR>Quando completi una ricerca o se metti una nota di ricerca completata vedrai un'icona a forma di stella. Cliccandolo creerà una copia della ricerca a patto che hai carta e inchiostro e che hai abbastanza punti ricerca.<BR>Più copie crei, più costoso diventerà copiare.
 #
 tc.research_name.DECONSTRUCTOR=Tavolo di Decostruzione
 tc.research_text.DECONSTRUCTOR=Quando dare un'occhiata semplicemente non basta...
@@ -562,7 +624,7 @@ tc.research_page.BASICTHAUMATURGY.2=Mantenendo premuto shift mosterà la quantit
 #
 tc.research_name.GRATE=Griglia per gli Oggetti
 tc.research_text.GRATE=Lasciar passare le cose buone
-tc.research_page.GRATE.1=La griglia per oggetti ti permette di aprirla o chiuderla a mano, o con un segnale redstone. Se è in posizione aperta, qualunque oggetto che vi si lascerà cadere la attraverserà.
+tc.research_page.GRATE.1=La griglia per oggetti ti permette di aprirla o chiuderla a mano, o con un segnale redstone. Se è in posizione aperta, qualunque oggetto che vi si lascerà cadere la attraverserà.<BR>Oggetti possono anche essere trasportati sopra alla griglia usando tramoggie o altri metodi di trasporto e se è aperto espellerà giù dal sotto.
 #
 tc.research_name.NODETAPPER1=Sfruttamento Avanzato dei Nodi
 tc.research_text.NODETAPPER1=Prenderlo tutto
@@ -584,9 +646,9 @@ tc.research_name.GOGGLES=Occhiali della Rivelazione
 tc.research_text.GOGGLES=Vedere l'Invisibile
 tc.research_page.GOGGLES.1=Lavorando sui principi di base del Taumometro, hai iniziato a rifinire la sua abilità di individuare la magia, in qualcosa di più... la rivelazione.<BR>Questo insieme di lenti mistiche renderà i nodi dell'aura molto più semplici da trovare, oltre a rivelare tutta una serie di cose nascoste.<BR>Rappresentano un importante strumento nell'arsenale di qualunque taumaturgo.
 #
-tc.research_name.THAUMIUM=Taumio
-tc.research_text.THAUMIUM=Un metallo magico
-tc.research_page.THAUMIUM.1=Il Taumio si ottiene tramite l'infusione di energia magica grezza nei metalli di base. Il risultato è un metallo più duro del ferro, con la capacità di assorbire incantesimi molto più di quanto sia in grado del semplice ferro.<BR>Un metallo come questo ha molti impieghi nella creazione di dispositivi taumaturgici più avanzati.<BR>Puo anche essere usato per creare utensili, armi ed armature in un semplice banco da lavoro, utilizzando le ricette normali.
+tc.research_name.THAUMIUM=Metallurgia Magica
+tc.research_text.THAUMIUM=Quando i metalli incontrano la magia
+tc.research_page.THAUMIUM.1=I metalli si sono dimostrati molto facili da manipolare con i principi della taumaturgia. Il tuo esperimento ha portato alla scoperta del Taumio<BR>Il Taumio si ottiene tramite l'infusione di energia magica grezza nei metalli di base. Il risultato è un metallo più duro del ferro, con la capacità di assorbire incantesimi molto più di quanto sia in grado del semplice ferro.<BR>Un metallo come questo ha molti impieghi nella creazione di dispositivi taumaturgici più avanzati.<BR>Puo anche essere usato per creare utensili, armi ed armature in un semplice banco da lavoro, utilizzando le ricette normali.
 #
 tc.research_name.NITOR=Nitor
 tc.research_text.NITOR=Fiamma Mistica
@@ -648,6 +710,47 @@ tc.research_name.ROD_reed=Anima per bacchette in Canna
 tc.research_text.ROD_reed=Immagazzinamento di Vis aereo
 tc.research_page.ROD_reed.1=Un'anima di bacchetta fatta di canne ha una capacità di immagazzinamento leggermente maggiore del legno di Grandalbero. Tuttavia ciò che la rende superiore alle anime di legno di Grandalbero è la sua capacità di rifornire il livello di Aer, senza l'ausilio di alcun nodo, quando scende al di sotto del 10%.
 #
+
+
+tc.research_name.ROD_greatwood_staff=Bastoni Magici
+ +tc.research_text.ROD_greatwood_staff=I bastoni dei maghi hanno un nodo sulla punta
+ +tc.research_page.ROD_greatwood_staff.1=Le bacchette sono gli strumenti del mestiere del taumaturgo, ma volte vorrai avere più potenza. I bastoni magici sono semplicemente bacchette più grandi. Possono tenere più vis.<BR>Essendo fisicamete più grandi e resistenti delle bacchette, possonon anche essere usati come un'arma in casi di emergenza.<BR>Purtroppo ciò li rende inadeguati per fabbricazioni intricate e controllo preciso richiesto da un banco da lavoro arcano o simili.
+ +tc.research_page.ROD_greatwood_staff.2=Un bastone fatto di grandalbero ha una capacità doppia di vis rispetto ad una bacchetta di grandalbero, potendo così tenere 125 vis di ogni tipo.
+ +#
+ +tc.research_name.ROD_silverwood_staff=Silverwood Staff Core
+ +tc.research_text.ROD_silverwood_staff=Magical to the core
+ +tc.research_page.ROD_silverwood_staff.1=Staff cores crafted from silverwood can store up to 250 vis of each type.
+ +#
+ +tc.research_name.ROD_obsidian_staff=Obsidian Staff Core
+ +tc.research_text.ROD_obsidian_staff=Earthen vis storage
+ +tc.research_page.ROD_obsidian_staff.1=A staff core chiselled from obsidian can store 175 vis of each type.<BR>Like the wand core it will slowly replenish its vis stores.
+ +#
+ +tc.research_name.ROD_bone_staff=Bone Staff Core
+ +tc.research_text.ROD_bone_staff=Entropic vis storage
+ +tc.research_page.ROD_bone_staff.1=A staff core carved from bone can store 175 vis of each type.<BR>Like the wand core it will slowly replenish its vis stores.
+ +#
+ +tc.research_name.ROD_blaze_staff=Blaze Rod Staff Core
+ +tc.research_text.ROD_blaze_staff=Fiery vis storage
+ +tc.research_page.ROD_blaze_staff.1=A staff core crafted from blaze rods can store 175 vis of each type.<BR>Like the wand core it will slowly replenish its vis stores.
+ +#
+ +tc.research_name.ROD_ice_staff=Icy Staff Core
+ +tc.research_text.ROD_ice_staff=Icy vis storage
+ +tc.research_page.ROD_ice_staff.1=A staff core crafted from ice can store 175 vis of each type.<BR>Like the wand core it will slowly replenish its vis stores.
+ +#
+ +tc.research_name.ROD_quartz_staff=Quartz Staff Core
+ +tc.research_text.ROD_quartz_staff=Ordered vis storage
+ +tc.research_page.ROD_quartz_staff.1=A staff core chiseled from quartz can store 175 vis of each type.<BR>Like the wand core it will slowly replenish its vis stores.
+ +#
+ +tc.research_name.ROD_reed_staff=Reed Staff Core
+ +tc.research_text.ROD_reed_staff=Airy vis storage
+ +tc.research_page.ROD_reed_staff.1=A staff core crafted from reeds can store 175 vis of each type.<BR>Like the wand core it will slowly replenish its vis stores.
+ +#
+ +tc.research_name.ROD_primal_staff=Staff Core of the Primal
+ +tc.research_text.ROD_primal_staff=Elemental power combined
+ +tc.research_page.ROD_primal_staff.1=This core pulses with latent energy.<BR>It combines all the features off the lesser stave cores - it has the vis storage capacity of the silverwood core and is able to replenish it's vis stores like the various primal wand cores.<BR>Lastly it adds one level of potency to any foci used with it.<BR>This is truly a potent tool in any thaumaturges arsenal.
+ +#
+
+
 tc.research_name.FOCUSFIRE=Foci per Bacchette
 tc.research_text.FOCUSFIRE=Il Corpo incontra la Funzione
 tc.research_page.FOCUSFIRE.1=Una sperimentazione attenta ti ha mostrato un modo per espandere le abilità delle bacchette, perfino la più semplice.<BR>Combinando frammenti di Vis cristallizzato con cristalli di quarzo, ed infondendoli di magia, sei in grado di allineare la struttura cristallina in una matrice mistica.<BR>Se attraverso questa matrice viene concentrato il vis in precise quantità e qualità, essa rimodellerà le energie magiche grezze in qualcosa di utile, controllato e collegato ad un compito specifico. 

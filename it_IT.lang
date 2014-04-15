@@ -879,6 +879,30 @@ tc.research_name.TRANSLEAD=Trasmutazione del piombo
 tc.research_text.TRANSLEAD=Trasformazione dei metalli in piombo
 tc.research_page.TRANSLEAD.1=Hai scoperto un modo per moltiplicare il piombo, immergendone le pepite in Essentia di §5metallum§0 ottenuta da altri metalli.
 #
+tc.research_name.PUREIRON=Purificazione di Metelli
+tc.research_text.PUREIRON=Purificazione di metalli in agglomerati puri
+tc.research_page.PUREIRON.1=Agglomerati puri sono rare concentrazioni di metalli nella loro forma più pura. Hai scoperto un modo per purificare e concentrale del normale ferro in un agglomerato puro.<BR>Quando fuso questi agglomerati ti daranno il doppio della normale quantità di lingotti di ferro.
+#
+tc.research_name.PUREGOLD=Purificazione dell'Oro
+tc.research_text.PUREGOLD=Purificazione diell'oro in agglomerati puri
+tc.research_page.PUREGOLD.1=Agglomerati puri sono rare concentrazioni di metalli nella loro forma più pura. Hai scoperto un modo per purificare e concentrale del normale oro normale in un agglomerato puro.<BR>Quando fuso questi agglomerati ti daranno il doppio della normale quantità di lingotti d'oro.
+#
+tc.research_name.PURECOPPER=Purificazione del Rame
+tc.research_text.PURECOPPER=Purificazione del rame in agglomerati puri
+tc.research_page.PURECOPPER.1=Agglomerati puri sono rare concentrazioni di metalli nella loro forma più pura. Hai scoperto un modo per purificare e concentrale del normale rame in un agglomerato puro.<BR>Quando fuso questi agglomerati ti daranno il doppio della normale quantità di lingotti di rame.
+#
+tc.research_name.PURETIN=Purificazione dello Stagno
+tc.research_text.PURETIN=Purificazione dello stagno in agglomerati puri
+tc.research_page.PURETIN.1=Agglomerati puri sono rare concentrazioni di metalli nella loro forma più pura. Hai scoperto un modo per purificare e concentrale del normale stagno in un agglomerato puro.<BR>Quando fuso questi agglomerati ti daranno il doppio della normale quantità di lingotti di stagno. +#
+#
+tc.research_name.PURESILVER=Purificazione dell'Argento
+tc.research_text.PURESILVER=Purificazione dell'argento in agglomerati puri
+tc.research_page.PURESILVER.1=Agglomerati puri sono rare concentrazioni di metalli nella loro forma più pura. Hai scoperto un modo per purificare e concentrale del normale argento in un agglomerato puro.<BR>Quando fuso questi agglomerati ti daranno il doppio della normale quantità di lingotti di argento. +#
+#
+tc.research_name.PURELEAD=Purificazione del Piombo
+tc.research_text.PURELEAD=Purificazione del piombo in agglomerati puri
+tc.research_page.PURELEAD.1=Agglomerati puri sono rare concentrazioni di metalli nella loro forma più pura. Hai scoperto un modo per purificare e concentrale del normale piombo in un agglomerato puro.<BR>Quando fuso questi agglomerati ti daranno il doppio della normale quantità di lingotti di piombo. +#
+#
 tc.research_name.TALLOW=Sego Magico
 tc.research_text.TALLOW=Grasso sciolto, con un tocco di magia
 tc.research_page.TALLOW.1=Lavorando e riscaldando la carne in un crogiolo, puoi creare un sego mistico adatto a molti utilizzi arcani.<BR>Questo sego puo essere usato per creare candele. Puoi inoltre creare candele di tinte diverse combinandole con i colori in un banco da lavoro arcano.
@@ -895,7 +919,7 @@ tc.research_page.GOLEMWOOD.1=Questo golem è intagliato dal legno di Grandalbero
 #
 tc.research_name.GOLEMTALLOW=Golem di Sego
 tc.research_text.GOLEMTALLOW=Tenere lontano dalle fiamme
-tc.research_page.GOLEMTALLOW.1=Questo golem avanzato è solo leggermente migliore del golem di legno, ma è in grado di sostenere due miglioramenti.<BR>§l§nAttributi del Golem di Sego§r<BR>§lDurabilità:§r Bassa<BR>§lForza:§r Bassa<BR>§lAutoriparazione:§r Media<BR>§lPortata massima:§r 4<BR>§lVelocità:§r Sopra la Media<BR>§lMiglioramenti:§r 2
+tc.research_page.GOLEMTALLOW.1=Questo golem avanzato è solo leggermente migliore del golem di argilla, ma è in grado di sostenere due miglioramenti.<BR>§l§nAttributi del Golem di Sego§r<BR>§lDurabilità:§r Bassa<BR>§lForza:§r Bassa<BR>§lAutoriparazione:§r Media<BR>§lPortata massima:§r 4<BR>§lVelocità:§r Sopra la Media<BR>§lMiglioramenti:§r 2
 #
 tc.research_name.GOLEMCLAY=Golem d'Argilla
 tc.research_text.GOLEMCLAY=Duro e Duraturo
@@ -953,6 +977,14 @@ tc.research_text.COREGUARD=Fare la guardia ai tuoi tesori
 tc.research_page.COREGUARD.1=I golem equipaggiati con questo nucleo fungono da guardia, attaccando tutte le creature ostili nella loro portata.<BR>Sicuramente armeggiando ancora un po' potrai rendere il golem più selettivo riguardo i bersagli da attaccare, ma per ora esso caccerà solo i mob aggressivi, tranne i creeper.
 tc.research_page.COREGUARD.2=     §nAggiornamento dell'Ordine Sbloccato§r<IMG>thaumcraft:textures/items/golem_upgrade_order.png:0:0:255:255:0.0625</IMG>Inserendo questo aggiornamento puoi specificare il tipo di creature che il golem attaccherà, e la scelta non sarà limitata solo alle entità ostili.
 #
+
+tc.research_name.COREBUTCHER=Golem Core: Butcher
+tc.research_text.COREBUTCHER=Bloody to the armpits
+tc.research_page.COREBUTCHER.1=This core is a refinement of the standard Guard core.<BR>A golem fitted with this core will only attack animals, but it is intelligent enough to only attack the oldest, fully grown adults and always make sure that a breeding pair remains.
+#
+
+
+
 tc.research_name.CORELIQUID=Nucleo Golem: Travaso
 tc.research_text.CORELIQUID=Tenere una tanica sempre piena di liquido
 tc.research_page.CORELIQUID.1=I Golem equipaggiati con questo nucleo cercheranno di mantenere sempre pieno il contenitore di liquidi a cui sono stati collegati.<BR>Se vuoi, puoi specificare quale liquido deve essere piazzato nella tanica utilizzando l'interfaccia del golem e piazzando un contenitore di liquidi (come un secchio pieno) in uno slot. Tutti gli altri liquidi saranno ignorati.<BR>Un golem travasatore puo solo portare 100mb di liquido per ogni unità che normalmente riesce a trasportare, ma porteranno sempre secchi pieno se gli viene ordinato di raccogliere i liquidi nel mondo.

@@ -977,14 +977,10 @@ tc.research_text.COREGUARD=Fare la guardia ai tuoi tesori
 tc.research_page.COREGUARD.1=I golem equipaggiati con questo nucleo fungono da guardia, attaccando tutte le creature ostili nella loro portata.<BR>Sicuramente armeggiando ancora un po' potrai rendere il golem più selettivo riguardo i bersagli da attaccare, ma per ora esso caccerà solo i mob aggressivi, tranne i creeper.
 tc.research_page.COREGUARD.2=     §nAggiornamento dell'Ordine Sbloccato§r<IMG>thaumcraft:textures/items/golem_upgrade_order.png:0:0:255:255:0.0625</IMG>Inserendo questo aggiornamento puoi specificare il tipo di creature che il golem attaccherà, e la scelta non sarà limitata solo alle entità ostili.
 #
-
-tc.research_name.COREBUTCHER=Golem Core: Butcher
-tc.research_text.COREBUTCHER=Bloody to the armpits
-tc.research_page.COREBUTCHER.1=This core is a refinement of the standard Guard core.<BR>A golem fitted with this core will only attack animals, but it is intelligent enough to only attack the oldest, fully grown adults and always make sure that a breeding pair remains.
+tc.research_name.COREBUTCHER=Nucleo Golem: Macellaio
+tc.research_text.COREBUTCHER=Sangue fino al collo
+tc.research_page.COREBUTCHER.1=Questo nucleo è un rifinimento del solito nucleo di guradia.<BR>Un golem con questo nucleo attaccherà solo animali, ma è abbastanza intelligente ad attaccare solo i più vecchi, cresciuti adulti e farà in modo che ci sia sempre una coppia da accoppiare.
 #
-
-
-
 tc.research_name.CORELIQUID=Nucleo Golem: Travaso
 tc.research_text.CORELIQUID=Tenere una tanica sempre piena di liquido
 tc.research_page.CORELIQUID.1=I Golem equipaggiati con questo nucleo cercheranno di mantenere sempre pieno il contenitore di liquidi a cui sono stati collegati.<BR>Se vuoi, puoi specificare quale liquido deve essere piazzato nella tanica utilizzando l'interfaccia del golem e piazzando un contenitore di liquidi (come un secchio pieno) in uno slot. Tutti gli altri liquidi saranno ignorati.<BR>Un golem travasatore puo solo portare 100mb di liquido per ogni unità che normalmente riesce a trasportare, ma porteranno sempre secchi pieno se gli viene ordinato di raccogliere i liquidi nel mondo.
@@ -1089,7 +1085,7 @@ tc.research_page.JARBRAIN.1=- Butta un cervello marcio di zombie in un barattolo
 tc.research_name.HOVERHARNESS=Imbracatura Taumostatica
 tc.research_text.HOVERHARNESS=è un uccello...
 tc.research_page.HOVERHARNESS.1=Finalmente sei riuscito a sbloccare il segreto del volo. Hai creato un'imbracatura che si aggancia direttamente al Campo Taumico utilizzando l'energia taumostatica, permettendoti così di sconfiggere la gravità. Sicuramente in qualche modo c'entrano i quanti ed i quark.<BR>Stranamente l'unico vis richiesto per alimentare questo aggeggio è infuso direttamente durante il suo processo di creazione. Invece il carburante che richiede per volare è Potentia grezza. Clicca con il destro mentre tieni in mano l'imbracatura per  aprire l'interfaccia ed inserire barattoli pieni.
-tc.research_page.HOVERHARNESS.2=Premendo due volte spazio mentre si indossa l'imbracatura, viene attivata.<BR>Mentre è attiva l'imbracatura consumerà Potentia.<BR>Puo essere incantata con Fretta per aumentare la velocità di volo.
+tc.research_page.HOVERHARNESS.2=Premendo F, mentre si indossa l'imbracatura, la attiva o disattiva.<BR>Mentre è attiva l'imbracatura consumerà Potentia.<BR>Puo essere incantata con Fretta per aumentare la velocità di volo.
 #
 tc.research_name.ADVANCEDGOLEM=Golem Avanzati
 tc.research_text.ADVANCEDGOLEM=Forse avrei dovuto pensarci meglio...
